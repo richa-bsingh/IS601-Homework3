@@ -8,7 +8,7 @@ def test_addition():
 def test_subtraction():
     '''Test that substraction function works '''    
     assert Calculator.subtract(2,2) == 0
-    
+
 def test_multiplication():
     '''Test that multiply function works'''
     assert Calculator.multiply(2,2) == 4
